@@ -10,4 +10,3 @@ return newArray;
 }
 writeCards(names, eventname);
 
-countDown;
