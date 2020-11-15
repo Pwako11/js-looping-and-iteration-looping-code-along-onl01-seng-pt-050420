@@ -9,4 +9,3 @@ function writeCards(names, eventname){
 return newArray;
 }
 writeCards(names, eventname);
-
